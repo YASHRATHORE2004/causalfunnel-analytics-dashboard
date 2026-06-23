@@ -440,7 +440,7 @@ npm run dev
 
 ## Sessions
 
-<img src="./screenshots/sessions-details.png" width="900" />
+<img src="./screenshots/session-details.png" width="900" />
 
 ## Heatmap
 
