@@ -426,19 +426,27 @@ npm run dev
 
 ## Dashboard
 
-*Add screenshot here*
+## Dashboard
+
+<img src="./screenshots/dashboard.png" width="900" />
 
 ## Sessions
 
-*Add screenshot here*
+## Sessions
+
+<img src="./screenshots/sessions.png" width="900" />
 
 ## Session Details
 
-*Add screenshot here*
+## Sessions
+
+<img src="./screenshots/sessions-details.png" width="900" />
 
 ## Heatmap
 
-*Add screenshot here*
+## Sessions
+
+<img src="./screenshots/heatmap.png" width="900" />
 
 ---
 
